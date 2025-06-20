@@ -46,3 +46,6 @@ The concepts and techniques demonstrated in this project have numerous real-worl
 
 Overall, this project not only reinforces the theoretical concepts studied in compiler design but also provides practical insight into how arithmetic expressions can be parsed and evaluated programmatically. It is a fundamental yet powerful demonstration of parsing logic, recursive function design, and exception handling in the context of language processing systems.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7f30c2ef-4f47-4f57-ba59-ed71717c24e2)
